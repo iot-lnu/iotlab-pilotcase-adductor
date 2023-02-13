@@ -16,7 +16,7 @@ const int port = 8080;
 // DEVEUI of the device, which we want to write downlinks to and read uplinks from
 const string deviceEui = "DEVEUI"; 
 
-// Chirpstack REST API Token
+// Chirpstack REST API JWT Token
 const string token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcG...bCeqBrh7g";
 
 // The path to the commands file
